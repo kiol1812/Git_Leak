@@ -1,0 +1,1 @@
+/query:content:\/.*API_KEY.*|.*api_key.*|.*apikey.*/ path:/.*\.env$/
